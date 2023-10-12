@@ -1,6 +1,4 @@
 # About me
----
-
 
 Elena is a PhD candidate at LSE’s European Institute. Elena’s research focuses on political identities and political behaviour in the European context. She is particularly interested in the subjective dimension of political identities, as well as their operationalisation and measurement. 
 
