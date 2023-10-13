@@ -1,4 +1,6 @@
-# About me
+# Elena Pro
+
+## About me
 
 I am a PhD candidate at LSE’s European Institute. My research focuses on political identities and political behaviour in the European context. I am particularly interested in the subjective dimension of political identities, as well as their operationalisation and measurement. 
 
