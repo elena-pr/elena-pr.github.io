@@ -1,0 +1,34 @@
+---
+title: "Elena Pro"
+image: IMG_5140.JPG
+resources: EPro_CV.pdf
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - icon: twitter
+     # text: twitter
+      href: https://twitter.com/elenapro0
+    - icon: github
+     # text: Github
+      href: https://github.com/elena-pr
+    - icon: linkedin
+     # text: LinkedIn
+      href: https://www.linkedin.com/in/elena-pro-69a9a41a1/
+    - icon: envelope
+    #  text: email
+      href: mailto:e.pro@lse.ac.uk
+---
+
+I am a PhD candidate at LSE’s European Institute. My research focuses on political behaviour and political identities in the European context.
+
+The guiding question of my PhD thesis is "Which group attachments are politically salient and what are their implications for voters’ attitudes and perceptions in Europe?". If you are curious about my work, you can find the slides of my research prospectus [here](https://github.com/elena-pr/slides/blob/main/EPro_ReserachProspectus.pdf).
+
+My broader research interests include social psychology, sociology (social cleavage theory), and the implementation of mixed-methods research designs (social network analysis, quantitative text analysis).
+
+I hold an MSc in Social Research Methods from the LSE and a BA in History and International Relations from the University of Exeter. This is my [CV](EPro_CV.pdf).
+
+When I am not at my desk, I am probably running around London or listening to live music in a random jazz bar. Outside of term time, I am ideally camping somewhere in Cornwall or hiking in Italy.
+
+If any of this interests you, please get in touch!!

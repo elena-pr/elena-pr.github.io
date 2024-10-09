@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elena Pro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - teaching.qmd
+      - blog.qmd 
+      
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
