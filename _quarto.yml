@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Elena Pro"
+  favicon: favicon-32x32.png
+  open-graph: true
   navbar:
     left:
       - href: index.qmd

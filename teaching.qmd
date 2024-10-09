@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## Graduate Teaching Assistant 2024/25:
+### Graduate Teaching Assistant 2024/25:
 
 -   [MY451](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY451A.htm) - Introduction to Quantitative Analysis (Master's Level)
 

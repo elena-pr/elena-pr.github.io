@@ -1,0 +1,31 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Blog\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "I also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and accessible to everyone. Check out my [blog!](https://elenapro.substack.com/)\n",
+        "\n",
+        "\n",
+        "```{html}\n",
+        "<iframe width=\"780\" height=\"500\" src=\"https://example.com/\" title=\"Webpage example\"></iframe>\n",
+        "```"
+      ],
+      "id": "b7cf0180"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
