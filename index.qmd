@@ -8,18 +8,19 @@ about:
   image-width: 15em
   links:
     - icon: twitter
-     # text: twitter
+      text: twitter
       href: https://twitter.com/elenapro0
     - icon: github
-     # text: Github
+      text: Github
       href: https://github.com/elena-pr
     - icon: linkedin
-     # text: LinkedIn
+      text: LinkedIn
       href: https://www.linkedin.com/in/elena-pro-69a9a41a1/
     - icon: envelope
-    #  text: email
+      text: email
       href: mailto:e.pro@lse.ac.uk
 ---
+
 
 I am a PhD candidate at LSE’s European Institute. My research focuses on political behaviour and political identities in the European context.
 
@@ -32,3 +33,5 @@ I hold an MSc in Social Research Methods from the LSE and a BA in History and In
 When I am not at my desk, I am probably running around London or listening to live music in a random jazz bar. Outside of term time, I am ideally camping somewhere in Cornwall or hiking in Italy.
 
 If any of this interests you, please get in touch!!
+
+
