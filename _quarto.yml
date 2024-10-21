@@ -12,6 +12,15 @@ website:
         text: Home
       - teaching.qmd
       - blog.qmd 
+    tools:
+      - icon: twitter
+        href: https://twitter.com/elenapro0
+      - icon: github
+        href: https://github.com/elena-pr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elena-pro-69a9a41a1/
+      - icon: envelope
+        href: mailto:e.pro@lse.ac.uk
       
 
 format:
