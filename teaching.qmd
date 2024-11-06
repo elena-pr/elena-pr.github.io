@@ -4,8 +4,10 @@ title: "Teaching"
 
 ### Graduate Teaching Assistant 2024/25:
 
--   [MY451](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY451A.htm) - Introduction to Quantitative Analysis (Master's Level)
+-   [MY451](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY451A.htm) - Introduction to Quantitative Analysis (LSE, Master's Level)
 
-    **Resources Developed:** [MY451 GPT](https://chatgpt.com/g/g-eFSPESO5n-introduction-to-quantitave-analysis) - Customized ChatGPT to answer questions relying on the coursepack
+    > **Resources Developed:** 
+    >  - [MY451 GPT](https://chatgpt.com/g/g-eFSPESO5n-introduction-to-quantitave-analysis): Customized ChatGPT to answer questions relying on the coursepack
+    >  - [NotebookLM Chi-Square](https://notebooklm.google.com/notebook/c6e75236-2549-4c02-8b3a-e565660def83/audio): AI-generated podcast that explains two-way contingency tables and chi-square test of independence
 
--   [MY461](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY461.htm) - Social Network Analysis (Master's Level)
+-   [MY461](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY461.htm) - Social Network Analysis (LSE, Master's Level)
