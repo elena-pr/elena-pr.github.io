@@ -11,7 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - teaching.qmd
-      - blog.qmd 
+      - blog.qmd
+      - contact.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/elenapro0

@@ -1,5 +1,5 @@
 ---
-title: "Elena Pro"
+title: "About me:"
 image: IMG_5140.JPG
 resources: EPro_CV.pdf
 about: 
