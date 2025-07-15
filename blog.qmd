@@ -1,17 +1,119 @@
 ---
 title: "Blog"
+page-layout: full
+title-block-banner: false
+css: blog-styles.css
 ---
 
-I also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and accessible to everyone. Check out my [blog!](https://elenapro.substack.com/)
+::: {.hero-section}
+# Thinking About Things
 
-### Latest Posts
+I write about the realities of PhD life, research methods, and navigating academia on my Substack newsletter. From practical advice on PhD applications to reflections on the research process, I aim to make academic life more accessible and less intimidating.
 
--   [You cannot force yourself to have good ideas](https://elenapro.substack.com/p/you-cannot-force-yourself-to-have){target="_blank"}
+<div class="cta-buttons">
+  <a href="https://elenapro.substack.com" class="btn btn-primary" target="_blank">
+    <i class="bi bi-substack"></i> Visit My Substack
+  </a>
+  <a href="https://elenapro.substack.com/subscribe" class="btn btn-outline" target="_blank">
+    <i class="bi bi-envelope"></i> Subscribe
+  </a>
+</div>
+:::
 
--   [Applying to PhDs in the UK](https://elenapro.substack.com/p/applying-to-phds-in-the-uk?r=2zzxdw){target="_blank"}
+## Latest Posts
 
--   [Reflections on the past academic year](https://elenapro.substack.com/p/reflections-on-the-past-academic?r=2zzxdw){target="_blank"}
 
--   [Why methods courses will change your life](https://elenapro.substack.com/p/why-methods-courses-will-change-your?r=2zzxdw){target="_blank"}
 
--   [How to ace your PhD interview with ChatGPT](https://elenapro.substack.com/p/how-to-ace-your-next-jobphd-interview?r=2zzxdw){target="_blank"}
+::: {.posts-grid}
+
+::: {.post-card}
+### [Maths should not be scary](https://open.substack.com/pub/elenapro/p/maths-should-not-be-scary?r=2zzxdw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+*15 July, 2025*
+
+In the social sciences, there seems to be a pervasive phenomenon among young scholars and students: the fear of numbers. This phenomenon is often perceived as an insurmountable obstacle for people with a qualitative background and sometimes prevents promising young students and scholars from exploring new ways of doing research, breaking boundaries (personal and academic), and doing their best work.
+
+::: {.post-tags}
+<span class="tag">Research</span>
+<span class="tag">Learning</span>
+<span class="tag">Teaching</span>
+:::
+
+[Read on Substack →](https://elenapro.substack.com/p/you-cannot-force-yourself-to-have){.read-more target="_blank"}
+:::
+
+::: {.post-card}
+### [You cannot force yourself to have good ideas](https://elenapro.substack.com/p/you-cannot-force-yourself-to-have)
+*November 1, 2024*
+
+You are in the first few months of a new project (perhaps your PhD or your master's), and you are trying to come up with a good idea. You tell yourself that it cannot only be good, it has to be groundbreaking. A thoughtful exploration of creativity, perfectionism, and the research process.
+
+::: {.post-tags}
+<span class="tag">Research</span>
+<span class="tag">PhD Life</span>
+<span class="tag">Creativity</span>
+:::
+
+[Read on Substack →](https://elenapro.substack.com/p/you-cannot-force-yourself-to-have){.read-more target="_blank"}
+:::
+
+::: {.post-card}
+### [Applying to PhDs in the UK](https://elenapro.substack.com/p/applying-to-phds-in-the-uk)
+*August 9, 2024*
+
+It seemed as though everyone else who was applying knew exactly what to do, exactly who to talk to, which programmes to apply to, which courses to take during their master's to have the most competitive CV. A comprehensive step-by-step guide for social sciences applications.
+
+::: {.post-tags}
+<span class="tag">PhD Applications</span>
+<span class="tag">UK Academia</span>
+<span class="tag">Social Sciences</span>
+:::
+
+[Read on Substack →](https://elenapro.substack.com/p/applying-to-phds-in-the-uk){.read-more target="_blank"}
+:::
+
+::: {.post-card}
+### [Why methods courses will change your life](https://substack.com/home/post/p-142970931)
+*May 10, 2024*
+
+[...] Like many others, I wondered: why on earth would someone sign up for a master’s in Methodology? But most importantly, what does a master’s in Methodology entail?
+
+
+[Read on Substack →](https://substack.com/home/post/p-142970931){.read-more target="_blank"}
+:::
+
+::: {.post-card}
+### [How to ace your next job/PhD interview with ChatGPT](https://elenapro.substack.com/p/how-to-ace-your-next-jobphd-interview)
+*January 26, 2024*
+
+After shedding tears on my keyboard while typing 1000 times "interview questions" in the Google search bar, I thought to myself, wouldn't it be great to have a personal assistant with endless free time, and trained on 45 TB of data. A practical guide with useful prompts for interview preparation.
+
+::: {.post-tags}
+<span class="tag">Interviews</span>
+<span class="tag">AI Tools</span>
+<span class="tag">Career Tips</span>
+:::
+
+[Read on Substack →](https://elenapro.substack.com/p/how-to-ace-your-next-jobphd-interview){.read-more target="_blank"}
+:::
+
+
+
+::: {.post-card}
+### [How do I approach a potential supervisor?](https://substack.com/home/post/p-139819310)
+*December 26, 2023*
+
+There's no one-size-fits-all answer. However, I think that, ultimately, admission committees are looking for two things in your research proposal:
+
+::: {.post-tags}
+<span class="tag">PhD Applications</span>
+<span class="tag">UK Academia</span>
+<span class="tag">Social Sciences</span>
+:::
+
+[Read on Substack →](https://substack.com/home/post/p-139819310){.read-more target="_blank"}
+:::
+
+
+
+
+
