@@ -1,6 +1,63 @@
+/* Override main styles for better readability */
+.hero-section h1,
+.hero-section h3,
+.hero-section p {
+  color: white !important;
+}
+
+.post-card h3,
+.post-card h3 a {
+  color: #004d4d !important;
+}
+
+.post-card h3 a:hover {
+  color: #006666 !important;
+}
+
+/* Fix the Read on Substack links */
+.post-card .read-more {
+  color: #004d4d !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  font-size: 0.9rem !important;
+}
+
+.post-card .read-more:hover {
+  color: #003333 !important;
+}
+
+/* Make buttons visible in hero section */
+.hero-section .btn {
+  color: white !important;
+}
+
+.hero-section .btn-primary {
+  background: rgba(255,255,255,0.2) !important;
+  color: white !important;
+  border: 2px solid white !important;
+}
+
+.hero-section .btn-primary:hover {
+  background: white !important;
+  color: #004d4d !important;
+  transform: translateY(-2px);
+}
+
+.hero-section .btn-outline {
+  background: transparent !important;
+  color: white !important;
+  border: 2px solid rgba(255,255,255,0.6) !important;
+}
+
+.hero-section .btn-outline:hover {
+  background: rgba(255,255,255,0.1) !important;
+  border-color: white !important;
+  transform: translateY(-2px);
+}
+
 /* Hero Section */
 .hero-section {
-  background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+  background: linear-gradient(135deg, #004d4d 0%, #006666 100%);
   color: white;
   padding: 4rem 2rem;
   text-align: center;
@@ -59,7 +116,7 @@
 
 .btn-primary:hover {
   background: white;
-  color: #2c3e50;
+  color: #004d4d;
   transform: translateY(-2px);
 }
 
@@ -99,7 +156,7 @@
 }
 
 .post-card h3 {
-  color: #2c3e50;
+  color: #004d4d;
   margin-bottom: 0.5rem;
   font-size: 1.3rem;
   line-height: 1.4;
@@ -111,7 +168,7 @@
 }
 
 .post-card h3 a:hover {
-  color: #3498db;
+  color: #006666;
 }
 
 .post-card em {
@@ -145,14 +202,14 @@
 }
 
 .read-more {
-  color: #3498db;
+  color: #004d4d !important;
   font-weight: 600;
   text-decoration: none;
   font-size: 0.9rem;
 }
 
 .read-more:hover {
-  color: #2c3e50;
+  color: #003333 !important;
 }
 
 /* Topics Grid */
@@ -178,12 +235,12 @@
 
 .topic-card i {
   font-size: 2.5rem;
-  color: #3498db;
+  color: #006666;
   margin-bottom: 1rem;
 }
 
 .topic-card h3 {
-  color: #2c3e50;
+  color: #004d4d;
   margin-bottom: 0.5rem;
   font-size: 1.1rem;
 }
@@ -204,7 +261,7 @@
 }
 
 .newsletter-content h4 {
-  color: #2c3e50;
+  color: #004d4d !important;
   margin-bottom: 1rem;
   font-size: 1.4rem;
 }
@@ -223,41 +280,45 @@
 }
 
 .footer-buttons .btn-primary {
-  background: #3498db;
-  color: white;
-  border: 2px solid #3498db;
+  background: #004d4d !important;
+  color: white !important;
+  border: 2px solid #004d4d !important;
 }
 
 .footer-buttons .btn-primary:hover {
-  background: #2c3e50;
-  border-color: #2c3e50;
+  background: #003333 !important;
+  border-color: #003333 !important;
 }
 
 .footer-buttons .btn-outline {
-  background: transparent;
-  color: #3498db;
-  border: 2px solid #3498db;
+  background: transparent !important;
+  color: #004d4d !important;
+  border: 2px solid #004d4d !important;
 }
 
 .footer-buttons .btn-outline:hover {
-  background: #3498db;
-  color: white;
+  background: #004d4d !important;
+  color: white !important;
 }
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   .post-card {
-    background: #2c3e50;
-    border-color: #34495e;
+    background: #004d4d;
+    border-color: #006666;
     color: white;
   }
   
   .post-card h3 {
-    color: white;
+    color: white !important;
+  }
+  
+  .post-card h3 a {
+    color: white !important;
   }
   
   .post-card h3 a:hover {
-    color: #3498db;
+    color: #66b3b3 !important;
   }
   
   .post-card p {
@@ -265,12 +326,12 @@
   }
   
   .tag {
-    background: #34495e;
+    background: #006666;
     color: #bdc3c7;
   }
   
   .topic-card {
-    background: #34495e;
+    background: #006666;
     color: white;
   }
   
@@ -283,11 +344,11 @@
   }
   
   .newsletter-footer {
-    background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+    background: linear-gradient(135deg, #006666 0%, #004d4d 100%);
   }
   
   .newsletter-content h4 {
-    color: white;
+    color: white !important;
   }
   
   .newsletter-content p {

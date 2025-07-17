@@ -1,3 +1,47 @@
 body, p, h2, h3, h4, h5, h6 {
   text-align: left !important;
 }
+
+:root {
+  --bs-primary: #004d4d;     /* Dark green teal */
+  --bs-primary-rgb: 0, 77, 77;
+  --bs-link-color: #004d4d;
+  --bs-link-hover-color: #003333;
+}
+
+/* Navbar styling - more specific selectors */
+.navbar {
+  background-color: #004d4d !important;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #cccccc !important;
+}
+
+.navbar-toggler {
+  border-color: white !important;
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: #004d4d !important;
+  border-color: #004d4d !important;
+}
+
+.btn-primary:hover {
+  background-color: #003333 !important;
+  border-color: #003333 !important;
+}
+
+/* Link colors */
+a {
+  color: #004d4d !important;
+}
+
+a:hover {
+  color: #003333 !important;
+}
