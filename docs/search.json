@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About me:",
     "section": "",
-    "text": "I am a PhD candidate at LSE’s European Institute and I am affiliated with the Data Science Institute at LSE.\nMy research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities.\nI study these topics with observational causal inference, experiments, and mixed-methods research designs.\nPrior to my PhD, I obtained a BA in History and Politics (University of Exeter) and an MSc in Social Research Methods (London School of Economics). You can find here my CV.\nI also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and accessible to everyone. Check out my blog!\nIf any of this interests you, please get in touch at e.pro@lse.ac.uk.\nYou can also find me on Twitter, Bluesky, LinkedIn, and GitHub."
+    "text": "I am a PhD candidate at LSE’s European Institute and I am affiliated with the Data Science Institute at LSE.\nMy research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities.\nI study these topics with observational causal inference, experiments, and mixed-methods research designs.\nBefore joining the European Institute, I obtained an MSc in Social Research Methods (London School of Economics) and a BA in History and Politics (University of Exeter). You can find here my CV.\nI also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and more accessible to everyone. Check out my blog!\nIf any of this interests you, please get in touch at e.pro@lse.ac.uk.\nYou can also find me on Twitter, Bluesky, LinkedIn, and GitHub."
   },
   {
     "objectID": "about.html",
@@ -51,14 +51,14 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Research & Writing",
     "section": "",
     "text": "I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.\n\nFrom Booths to Beliefs: A Cognitive Dissonance Approach to Elections in Europe\nCompulsory Civil Service and Political Attitudes: Evidence from a Natural Experiment in Austria"
   },
   {
     "objectID": "research.html#civic-actions-and-political-attitudes",
     "href": "research.html#civic-actions-and-political-attitudes",
-    "title": "Research",
+    "title": "Research & Writing",
     "section": "",
     "text": "I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.\n\nFrom Booths to Beliefs: A Cognitive Dissonance Approach to Elections in Europe\nCompulsory Civil Service and Political Attitudes: Evidence from a Natural Experiment in Austria"
   },
@@ -79,14 +79,14 @@
   {
     "objectID": "research.html#ai-and-political-decision-making",
     "href": "research.html#ai-and-political-decision-making",
-    "title": "Research",
+    "title": "Research & Writing",
     "section": "AI and political decision-making",
     "text": "AI and political decision-making\nI study whether and how interactions with AI can change citizens’ opinions and behaviour. My research looks into persuasion and accountability.\n\nArtificial Intelligence, Personalised Persuasion, and Climate Attitudes (with António Valentim)\nThe Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior (with Christopher J. Anderson)"
   },
   {
     "objectID": "research.html#political-identities",
     "href": "research.html#political-identities",
-    "title": "Research",
+    "title": "Research & Writing",
     "section": "Political identities",
     "text": "Political identities\nI study the relationship between political identities and political choices. I argue that we should look at how people understand and prioritise social categories when engaging in political decision-making."
   },
@@ -110,5 +110,12 @@
     "title": "Blog",
     "section": "Join the Conversation",
     "text": "Join the Conversation\nI launched “Thinking About Things” 2 years ago to share honest, practical advice about academic life. My goal is to make academia more accessible and less intimidating for everyone.\n\n\n\nNever miss a post\n\n\nGet practical advice on PhD life, research methods, and navigating academia delivered to your inbox.\n\n\n&lt;a href=\"https://elenapro.substack.com/subscribe\" class=\"btn btn-primary\" target=\"_blank\"&gt;\n  Subscribe Free\n&lt;/a&gt;\n&lt;a href=\"https://elenapro.substack.com/archive\" class=\"btn btn-outline\" target=\"_blank\"&gt;\n  Browse Archive\n&lt;/a&gt;"
+  },
+  {
+    "objectID": "research.html#methodology-and-pedagogy",
+    "href": "research.html#methodology-and-pedagogy",
+    "title": "Research & Writing",
+    "section": "Methodology and Pedagogy",
+    "text": "Methodology and Pedagogy\n\nWhere to Start? A Research Design and In-depth Interviews Toolkit"
   }
 ]

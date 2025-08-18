@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research & Writing"
 ---
 
 ## Civic actions and political attitudes
@@ -19,3 +19,8 @@ I study whether and how interactions with AI can change citizens' opinions and b
 ## Political identities
 
 I study the relationship between political identities and political choices. I argue that we should look at how people understand and prioritise social categories when engaging in political decision-making.
+
+
+## Methodology and Pedagogy
+
+- [Where to Start? A Research Design and In-depth Interviews Toolkit](handout.pdf){target="_blank"}
