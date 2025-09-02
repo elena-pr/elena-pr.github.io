@@ -10,7 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd  
+      - href: research.qmd
+        text: Research & Writing
       - teaching.qmd
       - blog.qmd
      
