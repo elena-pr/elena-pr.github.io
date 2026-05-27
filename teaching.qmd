@@ -2,9 +2,13 @@
 title: "Teaching"
 ---
 
-### Graduate Teaching Assistant 2024/25:
+### Graduate Teaching Assistant:
 
--   [MY451](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY451A.htm){target="_blank"} - Introduction to Quantitative Analysis (LSE, Master's Level)
+- [IR227](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/international-relations/ir227){target="_blank"} - Politics of Change: Governing Social Transformation (LSE, Summer School 2026)
+
+- [MY464](https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/MY/2025_MY464.htm){target="_blank"} - Critical Data Literacy for Media and Communications (2025/2026)
+
+-   [MY451](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY451A.htm){target="_blank"} - Introduction to Quantitative Analysis (LSE, Master's Level) (2024/2025; 2025/2026)
 
      **Resources Developed:**
      -   [MY451 GPT](https://chatgpt.com/g/g-eFSPESO5n-introduction-to-quantitave-analysis){target="_blank"}: Customized ChatGPT to answer questions relying on the coursepack
@@ -12,4 +16,4 @@ title: "Teaching"
      
      
 
--   [MY461](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY461.htm){target="_blank"} - Social Network Analysis (LSE, Master's Level)
+-   [MY461](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/MY/2024_MY461.htm){target="_blank"} - Social Network Analysis (LSE, Master's Level) (2024/2025)

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About me:",
     "section": "",
-    "text": "I am a PhD candidate at LSE’s European Institute and I am affiliated with the Data Science Institute at LSE.\nMy research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities.\nI study these topics with observational causal inference, experiments, and mixed-methods research designs.\nBefore joining the European Institute, I obtained an MSc in Social Research Methods (London School of Economics) and a BA in History and Politics (University of Exeter). You can find here my CV.\nI also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and more accessible to everyone. Check out my blog!\nIf any of this interests you, please get in touch at e.pro@lse.ac.uk.\nYou can also find me on Twitter, Bluesky, LinkedIn, and GitHub."
+    "text": "I am a PhD candidate at LSE’s European Institute and I am affiliated with the Data Science Institute at LSE.\nMy research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities.I study these topics with observational causal inference, experiments, and mixed-methods research designs.\nMy work is forthcoming in Perspectives on Politics.\nBefore joining the European Institute, I obtained an MSc in Social Research Methods (London School of Economics) and a BA in History and Politics (University of Exeter). You can find here my CV.\nI also love learning and writing about study methods and note-taking techniques, hoping to make academia a bit less daunting and more accessible to everyone. Check out my blog!\nIf any of this interests you, please get in touch at e.pro@lse.ac.uk.\nYou can also find me on Bluesky, LinkedIn, and GitHub."
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Graduate Teaching Assistant 2024/25:\n\nMY451 - Introduction to Quantitative Analysis (LSE, Master’s Level)\nResources Developed:\n\nMY451 GPT: Customized ChatGPT to answer questions relying on the coursepack\nNotebookLM Chi-Square: AI-generated podcast that explains two-way contingency tables and chi-square test of independence\n\nMY461 - Social Network Analysis (LSE, Master’s Level)"
+    "text": "Graduate Teaching Assistant:\n\nIR227 - Politics of Change: Governing Social Transformation (LSE, Summer School 2026)\nMY464 - Critical Data Literacy for Media and Communications (2025/2026)\nMY451 - Introduction to Quantitative Analysis (LSE, Master’s Level) (2024/2025; 2025/2026)\nResources Developed:\n\nMY451 GPT: Customized ChatGPT to answer questions relying on the coursepack\nNotebookLM Chi-Square: AI-generated podcast that explains two-way contingency tables and chi-square test of independence\n\nMY461 - Social Network Analysis (LSE, Master’s Level) (2024/2025)"
   },
   {
     "objectID": "teaching.html#graduate-teaching-assistant-202425",
@@ -53,14 +53,14 @@
     "href": "research.html",
     "title": "Research & Writing",
     "section": "",
-    "text": "I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.\n\nFrom Booths to Beliefs: A Cognitive Dissonance Approach to Elections in Europe\nCompulsory Civil Service and Political Attitudes: Evidence from a Natural Experiment in Austria"
+    "text": "I study how citizens come to think what they think about politics and what makes it change."
   },
   {
     "objectID": "research.html#civic-actions-and-political-attitudes",
     "href": "research.html#civic-actions-and-political-attitudes",
     "title": "Research & Writing",
-    "section": "",
-    "text": "I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.\n\nFrom Booths to Beliefs: A Cognitive Dissonance Approach to Elections in Europe\nCompulsory Civil Service and Political Attitudes: Evidence from a Natural Experiment in Austria"
+    "section": "Civic actions and political attitudes",
+    "text": "Civic actions and political attitudes\nI investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.\n\nVoting as Social Categorisation\nLocal Institutions, Participation, and Trust"
   },
   {
     "objectID": "research.html#ai-decision-making-and-politics",
@@ -81,7 +81,7 @@
     "href": "research.html#ai-and-political-decision-making",
     "title": "Research & Writing",
     "section": "AI and political decision-making",
-    "text": "AI and political decision-making\nI study whether and how interactions with AI can change citizens’ opinions and behaviour. My research looks into persuasion and accountability.\n\nArtificial Intelligence, Personalised Persuasion, and Climate Attitudes (with António Valentim)\nThe Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior (with Christopher J. Anderson)"
+    "text": "AI and political decision-making\nI study whether and how interactions with AI can change citizens’ opinions and behaviour. My research looks into persuasion and accountability.\n\nThe Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior (with Christopher J. Anderson), forthcoming in Perspectives on Politics\nArtificial Intelligence, Personalised Persuasion, and Climate Attitudes (with António Valentim)"
   },
   {
     "objectID": "research.html#political-identities",

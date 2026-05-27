@@ -2,23 +2,26 @@
 title: "Research & Writing"
 ---
 
+I study how citizens come to think what they think about politics and what makes it change.
+
 ## Civic actions and political attitudes
 
 I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.
 
--   *From Booths to Beliefs: A Cognitive Dissonance Approach to Elections in Europe*
-- *Compulsory Civil Service and Political Attitudes: Evidence from a Natural Experiment in Austria*
+-   Voting as Social Categorisation
+
+- Local Institutions, Participation, and Trust
 
 ## AI and political decision-making
 
 I study whether and how interactions with AI can change citizens' opinions and behaviour. My research looks into persuasion and accountability.
 
--   *Artificial Intelligence, Personalised Persuasion, and Climate Attitudes* (with António Valentim)
--   *The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior* (with Christopher J. Anderson)
 
-## Political identities
+-   The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior (with Christopher J. Anderson), forthcoming in *Perspectives on Politics*
 
-I study the relationship between political identities and political choices. I argue that we should look at how people understand and prioritise social categories when engaging in political decision-making.
+-   Artificial Intelligence, Personalised Persuasion, and Climate Attitudes (with António Valentim)
+
+
 
 
 ## Methodology and Pedagogy
