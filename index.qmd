@@ -13,7 +13,7 @@ format:
 
 I am a PhD candidate at LSE’s European Institute and I am affiliated with the [Data Science Institute](https://www.lse.ac.uk/DSI) at LSE.
 
-My research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities.I study these topics with observational causal inference, experiments, and mixed-methods research designs. 
+My research focuses on political behaviour and political identities in the European context. I am interested in how political and civic actions influence public opinion and attachment to political identities. I study these topics with observational causal inference, experiments, and mixed-methods research designs. 
 
 My work is forthcoming in *Perspectives on Politics*.
 
