@@ -1,6 +1,6 @@
 ---
 title: "About me:"
-image: IMG_5140.JPG
+image: headshot copy.jpg
 resources: EPro_CV.pdf
 about: 
   template: solana
