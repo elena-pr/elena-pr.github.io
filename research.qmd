@@ -8,24 +8,32 @@ I study how citizens come to think what they think about politics and what makes
 
 ## Civic actions and political attitudes
 
-I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of civic engagement shape attitudes towards democracy, co-partisans, and political opponents.
+I investigate the relationship between institutions, civic actions, and the formation of political identities. I focus on how institutionalised forms of everyday interactions with the state shape attitudes towards democracy, co-partisans, and political opponents.
 
 ```{=html}
 <ul class="paper-list">
   <li>
     <b>Voting as Social Categorisation</b>
-    <button class="toggle-btn" data-target="voting-social-cat" aria-expanded="false">[Abstract]</button>
-    <div id="voting-social-cat" class="abstract" hidden>
-      <p>What is the connection between the act of voting and attitudes towards political parties? While extensive research explores how voting reinforces partisan attachment, the immediate effects on broader political attitudes remain understudied, particularly in multi-party systems. I study the effect of voting on affective attitudes toward political parties across multiple European democracies and show that participation primarily heightens affective polarisation without affecting partisan attachment. To explain this result, I draw on social psychology's minimal group paradigm, wherein mere group membership, absent any shared interests, produces intergroup bias, to argue that voting serves as a form of social categorisation. The act of voting triggers a cognitive process of categorising the political world into in-groups and out-groups, fostering intergroup bias. I test this theory using data from the UK Household Panel Study and the Comparative Study of Electoral Systems across European democracies. I leverage voting age eligibility as an instrument to identify the downstream effects of voting on partisanship and affective polarisation. The findings challenge conventional theories by demonstrating that intergroup bias in politics can emerge independently of strong partisan loyalties, revealing alternative pathways through which electoral participation shapes political attitudes, with particular implications for democracies where strong party identification is not the norm.</p>
-    </div>
+    <ul class="paper-sublist">
+      <li>
+        <button class="toggle-btn" data-target="voting-social-cat" aria-expanded="false">[Abstract]</button>
+        <div id="voting-social-cat" class="abstract" hidden>
+          <p>What is the connection between the act of voting and attitudes towards political parties? While extensive research explores how voting reinforces partisan attachment, the immediate effects on broader political attitudes remain understudied, particularly in multi-party systems. I study the effect of voting on affective attitudes toward political parties across multiple European democracies and show that participation primarily heightens affective polarisation without affecting partisan attachment. To explain this result, I draw on social psychology's minimal group paradigm, wherein mere group membership, absent any shared interests, produces intergroup bias, to argue that voting serves as a form of social categorisation. The act of voting triggers a cognitive process of categorising the political world into in-groups and out-groups, fostering intergroup bias. I test this theory using data from the UK Household Panel Study and the Comparative Study of Electoral Systems across European democracies. I leverage voting age eligibility as an instrument to identify the downstream effects of voting on partisanship and affective polarisation. The findings challenge conventional theories by demonstrating that intergroup bias in politics can emerge independently of strong partisan loyalties, revealing alternative pathways through which electoral participation shapes political attitudes, with particular implications for democracies where strong party identification is not the norm.</p>
+        </div>
+      </li>
+    </ul>
   </li>
 
   <li>
     <b>Local Institutions, Participation, and Trust</b>
-    <button class="toggle-btn" data-target="local-institutions" aria-expanded="false">[Abstract]</button>
-    <div id="local-institutions" class="abstract" hidden>
-      <p>How does compulsory civic engagement shape citizens' attitudes? While voluntary participation has received extensive scholarly attention, the effects of mandatory civic duties remain understudied. This paper examines compulsory civil service in Vorarlberg, Austria, where citizens in rural municipalities must perform compulsory manual labour or pay substitute taxes. First, I triangulate evidence from several administrative sources to identify the towns that still enforce the service and to identify predictors of service adoption. I find that enforcement of compulsory civil service is associated with higher altitude, smaller population size, and stronger civic infrastructure (as proxied by fire brigade membership density and electoral turnout). Second, using a mixed-methods approach combining in-depth interviews with an original field experiment, I investigate how mandatory civic engagement affects institutional trust and political attitudes. Preliminary interviews with local officials reveal that service uptake is undermined by informational and registration barriers. To address these barriers and identify causal effects, I employ a quasi-experimental design leveraging information provision as an instrument for service uptake. I then estimate the effect of actual participation on trust and attitudes. I hypothesise that reducing information and registration barriers increases service uptake, and that compulsory service will enhance trust in local institutions through direct engagement and visible community benefits, while undermining trust in national and supranational institutions. This study contributes to understanding how mandatory civic engagement and participatory interventions shape political attitudes and whether such programmes strengthen or undermine democratic legi</p>
-    </div>
+    <ul class="paper-sublist">
+      <li>
+        <button class="toggle-btn" data-target="local-institutions" aria-expanded="false">[Abstract]</button>
+        <div id="local-institutions" class="abstract" hidden>
+          <p>How does compulsory civic engagement shape citizens' attitudes? While voluntary participation has received extensive scholarly attention, the effects of mandatory civic duties remain understudied. This paper examines compulsory civil service in Vorarlberg, Austria, where citizens in rural municipalities must perform compulsory manual labour or pay substitute taxes. First, I triangulate evidence from several administrative sources to identify the towns that still enforce the service and to identify predictors of service adoption. I find that enforcement of compulsory civil service is associated with higher altitude, smaller population size, and stronger civic infrastructure (as proxied by fire brigade membership density and electoral turnout). Second, using a mixed-methods approach combining in-depth interviews with an original field experiment, I investigate how mandatory civic engagement affects institutional trust and political attitudes. Preliminary interviews with local officials reveal that service uptake is undermined by informational and registration barriers. To address these barriers and identify causal effects, I employ a quasi-experimental design leveraging information provision as an instrument for service uptake. I then estimate the effect of actual participation on trust and attitudes. I hypothesise that reducing information and registration barriers increases service uptake, and that compulsory service will enhance trust in local institutions through direct engagement and visible community benefits, while undermining trust in national and supranational institutions. This study contributes to understanding how mandatory civic engagement and participatory interventions shape political attitudes and whether such programmes strengthen or undermine democratic legi</p>
+        </div>
+      </li>
+    </ul>
   </li>
 </ul>
 ```
@@ -39,10 +47,15 @@ I study whether and how interactions with AI can change citizens' opinions and b
   <li>
     <b>The Autonomy Paradox: Artificial Intelligence and the Foundations of Political Behavior</b>
     (with Christopher J. Anderson), forthcoming in <i><a href="https://doi.org/10.1017/S1537592726105775" target="_blank" rel="noopener">Perspectives on Politics</a></i>
-    <button class="toggle-btn" data-target="autonomy-paradox" aria-expanded="false">[Abstract]</button>
-    <div id="autonomy-paradox" class="abstract" hidden>
-      <p>Decades of research in political behavior show that citizens struggle with information, rely on cognitive shortcuts, and face barriers to participation. They are increasingly using AI tools to make sense of political information and express views, while interacting with platform curation systems that shape how views circulate through democratic politics. Although these tools appear suited to address the limits of democratic citizenship, they do more than transmit content. They help interpret information, articulate views, and affect what is prioritized, seen, and circulated. In doing so, these systems shape the formation of political judgments and citizens’ capacity to translate them into action. As a result, they can reduce barriers to participation while weakening the independence of political judgment, or they can support reflective preference formation while constraining citizens’ ability to act on those preferences effectively. We call this tension the autonomy paradox. To make sense of it, we focus on how citizens engage with AI systems in ways that affect belief formation and political action. We develop a framework and research agenda for identifying when AI supports autonomous citizenship, when it substitutes for citizens’ judgment or agency, and why the same systems produce different outcomes across political tasks depending on how citizens use them.</p>
-    </div>
+    <ul class="paper-sublist">
+      <li>
+        <button class="toggle-btn" data-target="autonomy-paradox" aria-expanded="false">[Abstract]</button>
+        <div id="autonomy-paradox" class="abstract" hidden>
+          <p>Decades of research in political behavior show that citizens struggle with information, rely on cognitive shortcuts, and face barriers to participation. They are increasingly using AI tools to make sense of political information and express views, while interacting with platform curation systems that shape how views circulate through democratic politics. Although these tools appear suited to address the limits of democratic citizenship, they do more than transmit content. They help interpret information, articulate views, and affect what is prioritized, seen, and circulated. In doing so, these systems shape the formation of political judgments and citizens’ capacity to translate them into action. As a result, they can reduce barriers to participation while weakening the independence of political judgment, or they can support reflective preference formation while constraining citizens’ ability to act on those preferences effectively. We call this tension the autonomy paradox. To make sense of it, we focus on how citizens engage with AI systems in ways that affect belief formation and political action. We develop a framework and research agenda for identifying when AI supports autonomous citizenship, when it substitutes for citizens’ judgment or agency, and why the same systems produce different outcomes across political tasks depending on how citizens use them.</p>
+        </div>
+      </li>
+      <li class="media-line"><b>Media:</b> <a href="https://euobserver.com/231229/as-eu-ai-act-enters-into-force-study-warnschatbots-blur-voters-own-political-views/" target="_blank" rel="noopener">EUobserver</a></li>
+    </ul>
   </li>
 
   <li>
@@ -53,10 +66,14 @@ I study whether and how interactions with AI can change citizens' opinions and b
   <li>
     <b>Artificial Intelligence, Personalised Persuasion, and Climate Attitudes</b>
     (with António Valentim)
-    <button class="toggle-btn" data-target="ai-persuasion-climate" aria-expanded="false">[Abstract]</button>
-    <div id="ai-persuasion-climate" class="abstract" hidden>
-      <p>Can interactions with AI change climate opinion? Combating climate change requires citizens to recognise its urgency, make sustainable choices, and advocate systemic changes. As AI becomes more prevalent, we test the extent to which its use can change climate opinions and policy preferences. We argue that AI – particularly personalized content – could influence climate attitudes and overcome limitations of pure information provision. In this pre-analysis plan, we hypothesize that engaging with large language models (LLMs) can shift public attitudes towards climate change by delivering tailored messages at scale. We will conduct a survey experiment in the UK to examine how dialogues with an LLM affect respondents' climate opinions and policy preferences. These dialogues will leverage previously collected individual-level information to tailor interactions. We will compare effects of personalized interactions about climate change with those of interactions on different topics, non-personalized climate interactions, and standard informational statements. Overall, our study contributes to research on climate opinion and consequences of AI for politics.</p>
-    </div>
+    <ul class="paper-sublist">
+      <li>
+        <button class="toggle-btn" data-target="ai-persuasion-climate" aria-expanded="false">[Abstract]</button>
+        <div id="ai-persuasion-climate" class="abstract" hidden>
+          <p>Can interactions with AI change climate opinion? Combating climate change requires citizens to recognise its urgency, make sustainable choices, and advocate systemic changes. As AI becomes more prevalent, we test the extent to which its use can change climate opinions and policy preferences. We argue that AI – particularly personalized content – could influence climate attitudes and overcome limitations of pure information provision. In this pre-analysis plan, we hypothesize that engaging with large language models (LLMs) can shift public attitudes towards climate change by delivering tailored messages at scale. We will conduct a survey experiment in the UK to examine how dialogues with an LLM affect respondents' climate opinions and policy preferences. These dialogues will leverage previously collected individual-level information to tailor interactions. We will compare effects of personalized interactions about climate change with those of interactions on different topics, non-personalized climate interactions, and standard informational statements. Overall, our study contributes to research on climate opinion and consequences of AI for politics.</p>
+        </div>
+      </li>
+    </ul>
   </li>
 </ul>
 ```
