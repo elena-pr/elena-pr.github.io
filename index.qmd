@@ -13,7 +13,7 @@ format:
 
 I am a PhD candidate at LSE’s European Institute and I am affiliated with the [Data Science Institute](https://www.lse.ac.uk/DSI) at LSE.
 
-My research centres on the comparative politics of citizen-state interactions: how the state compels, engages, and responds to citizens, and the attitudinal and behavioural consequences of these encounters. As part of this research agenda, I investigate how artificial intelligence reshapes these interactions. I study these topics with observational causal inference, field experiments, and mixed-methods research designs. 
+I study the comparative politics of citizen-state interactions: how the state compels, engages, and responds to citizens, and the attitudinal and behavioural consequences of these encounters. As part of this research agenda, I am also interested in how the growing adoption of artificial intelligence reshapes these interactions. I study these topics with observational causal inference, field experiments, and mixed-methods research designs.
 
 My work is forthcoming in [*Perspectives on Politics*](https://doi.org/10.1017/S1537592726105775){target="_blank"}.
 
